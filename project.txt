@@ -1,0 +1,1 @@
+collect username and check against a list of names in another text file
